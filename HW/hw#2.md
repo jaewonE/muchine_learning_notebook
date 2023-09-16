@@ -1,11 +1,3 @@
-## 내용 정리
-
-- [곽재원 2주차 수업 내용 정리](https://github.com/jaewonE/muchine_learning_notebook/blob/main/%EC%A0%95%EB%A6%AC%20%EB%85%B8%ED%8A%B8/%EC%9E%AC%EC%9B%90%202%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC.md)
-
-- [박성훈 2주차 수업 내용 정리](https://github.com/jaewonE/muchine_learning_notebook/blob/main/%EC%A0%95%EB%A6%AC%20%EB%85%B8%ED%8A%B8/%EC%84%B1%ED%9B%88%202%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC.md)
-
-<br>
-
 ## 학습이란 무엇인가
 
 ```
