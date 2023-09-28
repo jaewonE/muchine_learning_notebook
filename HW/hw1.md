@@ -18,8 +18,6 @@ SVM과 다른 기계 학습 알고리즘 간의 주요 차이점 중 하나는, 
 
 ### 3. 사례 조사
 
-<br>
-
 #### 1. 기계 이상치 탐지
 
 SVM은 적은 데이터로도 효과적인 모델 학습이 가능하여, 이상치 탐지에 자주 활용됩니다. One-Class SVM 방식은 정상 데이터로 학습하고, 다른 패턴을 가진 데이터를 이상치로 식별합니다.
@@ -90,6 +88,14 @@ SVM을 이용한 얼굴 인식은 얼굴의 특징을 분석하여 개인을 정
 - SVM을 활용한 얼굴 인식에 대한 연구를 소개합니다.
 
       Guodong Guo, S. Z. Li and Kapluk Chan, "Face recognition by support vector machines," Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580), Grenoble, France, 2000, pp. 196-201, doi: 10.1109/AFGR.2000.840634.
+
+- SVM 분류기에 의한 얼굴 특징 식별 시스템에 대한 연구를 소개합니다.
+
+      박강령, 김재희, 이수현. (2004). SVM 분류기에 의한 얼굴 특징 식별 시스템. 정보처리학회논문지. 소프트웨어 및 데이터 공학, 11(6), 675-682.
+
+- SVM을 이용한 얼굴 인식 기반의 실시간 출입 관리 시스템에 대한 연구를 소개합니다.
+
+      강봉수, 오승근, 박승진, 박대희. (2010). 얼굴 인식 기반의 실시간 출입 관리 시스템. 한국정보처리학회 학술대회논문집, 17(1), 888-891.
 
 <br>
 
