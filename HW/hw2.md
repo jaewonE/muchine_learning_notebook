@@ -44,9 +44,13 @@ Chopra와 Meindl의 공급 사슬 관리 책에서 가져온 "Trips 물류 예�
 ### 출처
 
 [1] [Decision Trees: Simplifying Decisions in Supply Chain Management - LinkedIn](https://www.linkedin.com/pulse/decision-trees-simplifying-decisions-supply-chain-david-mcmillan/)
+
 [2] [Evaluating Supply Chain Network Design Decisions Using Decision Trees](https://phantran.net/evaluating-supply-chain-network-design-decisions-using-decision-trees/)
+
 [3] [SCM (14): Making a decision tree (Trips Logistics Example)](https://www.youtube.com/watch?v=9vKU-xk2Z-M)
+
 [4] 논문: [A MULTI AGENT DECISION TREE ALGORITHM FOR SUPPLY CHAIN MANAGEMENT](https://www.researchgate.net/publication/324989086_A_MULTI_AGENT_DECISION_TREE_ALGORITHM_FOR_SUPPLY_CHAIN_MANAGEMENT)
+
 [5] [Supply Chain Decision Trees - Medium](https://medium.com/difrentur/supply-chain-decision-trees-ce3375d7ad07)
 
 <br>
@@ -83,8 +87,11 @@ Chopra와 Meindl의 공급 사슬 관리 책에서 가져온 "Trips 물류 예�
 ### 출처
 
 [1] [How to Use Decision Trees for more Efficient Customer Service](https://www.linkedin.com/pulse/how-use-decision-trees-more-efficient-customer-service-chris-rall/)
+
 [2] [How Decision Trees Improves Customer Experience In Call Centers?](https://knowmax.ai/blog/decision-trees-improve-customer-experience/)
+
 [3] 논문: [Customer churn analysis using XGBoosted decision trees - ResearchGate](https://www.researchgate.net/publication/357653312_Customer_churn_analysis_using_XGBoosted_decision_trees)
+
 [4] 논문: [Customer Relationship Management and Data Mining: A Classification Decision Tree to Predict Customer Purchasing Behavior in Global Market](https://www.researchgate.net/publication/259740867_Customer_Relationship_Management_and_Data_Mining_A_Classification_Decision_Tree_to_Predict_Customer_Purchasing_Behavior_in_Global_Market)
 
 <br>
@@ -116,6 +123,7 @@ Chopra와 Meindl의 공급 사슬 관리 책에서 가져온 "Trips 물류 예�
 ### 출처
 
 [1] [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002331](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002331)
+
 [2] [https://www.science.org/doi/10.1126/science.1115255](https://www.science.org/doi/10.1126/science.1115255)
 
 <br>
